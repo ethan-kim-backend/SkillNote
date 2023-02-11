@@ -1,0 +1,8 @@
+proptest:
+  collectionInfos:
+    - dataType: DATA_EXTRACTION
+      languageType: en
+      name: extraction_content_investing_profile_en_ver2
+    - dataType: DATA_EXTRACTION
+      languageType: ko
+      name: extraction_content_investing_profile_kr
